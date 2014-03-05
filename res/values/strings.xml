@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tarea_Tienda</string>
+    <string name="llamar">Llamar</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_favorite">Favorito</string>
+    <string name="action_share">Compartir</string>
+    <string name="ListadodeTiendas">Listado de Tiendas</string>
+    <string name="TiendaLego">Tienda de Lego</string>
+    <string name="TiendaLibros">Tienda de Libros</string>
+    <string name="TiendaRopa">Tienda de Ropa</string>
+    <string name="Supermercado">Supermercado</string>
+    <string name="TiendaZapatos">Tienda de Zapatos</string>
+    <string name="TiendaMuebles">Tienda de Muebles</string>
+    <string name="title_activity_detalle_tiendas">DetalleTiendas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="comentario">Mall de afuera</string>
+    <string name="title_activity_fotos">Fotos</string>
+    <string name="datos_compartidos">%1$S %2$S %3$S %4$S %5$S %6$S</string>
+    <string name="title_activity_comunidad">ComunidadActivity</string>
+
+</resources>
